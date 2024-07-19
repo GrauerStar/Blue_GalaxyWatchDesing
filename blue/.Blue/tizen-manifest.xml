@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?><manifest xmlns="http://tizen.org/ns/packages" api-version="5.0.0.0" package="at.grauer_star.Blue" version="1.0.0">
+    <watch-application appid="at.grauer_star.Blue" exec="at.grauer_star.Blue">
+        <metadata key="http://developer.samsung.com/tizen/metadata/watchface" value="true"/>
+        <icon>Blue.png</icon>
+        <label>Blue</label>
+    </watch-application>
+    <privileges>
+        <privilege>http://tizen.org/privilege/appmanager.launch</privilege>
+        <privilege>http://tizen.org/privilege/packagemanager.info</privilege>
+        <privilege>http://tizen.org/privilege/healthinfo</privilege>
+    </privileges>
+    <feature name="http://tizen.org/feature/screen.shape.circle">true</feature>
+    <feature name="http://tizen.org/feature/screen.size.normal.360.360">true</feature>
+</manifest>

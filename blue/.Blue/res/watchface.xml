@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<watchface device_name="Gear S3, Gear Sport, Galaxy Watch, Galaxy Watch Active" height="360" name="watchface.xml" schema_version="1.5" screen_type="1" version="2.0.1" width="360">
+    <root height="360" type="normal" width="360" x="0" y="0">
+        <background height="360" id="Background view360x360" name="view360x360.png" width="360" x="0" y="0"/>
+        <digitalclock alignment="16777216" b="255" bitmap_font="true" bitmap_font_name="bitmap_font_1702392613134_qIp1P3" custom_font="false" default_locale="en_US" font_name="Tizen" g="255" height="94" id="Digitalclock gross" locale="es_PE;fr_CA;ar_EG;en_NZ;is_IS;fr_CH;es_PA;da_DK;et_EE;bg_BG;en_SG;fi_FI;en_CA;en_GB;es_HN;de_LU;es_PR;ga_IE;ar_IQ;sl_SI;ar_AE;es_PY;es_DO;it_IT;ru_RU;hi_IN;fr_LU;es_EC;es_US;th_TH;de_DE;en_PH;es_UY;ms_MY;ar_SD;de_CH;zh_HK;zh_TW;ar_SA;sk_SK;es_ES;es_VE;ar_JO;nl_NL;ar_BH;es_MX;sq_AL;zh_SG;nl_BE;es_AR;sv_SE;ar_OM;sr_RS;mk_MK;vi_VN;es_NI;en_US;en_IE;ar_KW;ko_KR;lv_LV;uk_UA;en_IN;es_BO;zh_CN;en_ZA;pt_PT;ar_SY;de_AT;pl_PL;el_GR;ro_RO;it_CH;be_BY;fr_BE;mt_MT;tr_TR;pt_BR;en_AU;fr_FR;el_CY;cs_CZ;hu_HU;ja_JP;ar_LB;ar_QA;ar_YE;es_SV;es_CO;es_GT;es_CR;es_CL" r="255" size="40" style="0" text="HH : mm" width="233" x="63" y="223">
+            <bitmap_font>
+                <character filepath="trGVi0.png" height="99" name="0" width="51"/>
+                <character filepath="uWak7T.png" height="96" name="1" width="38"/>
+                <character filepath="WfASaH.png" height="97" name="2" width="52"/>
+                <character filepath="qU6BWw.png" height="98" name="3" width="51"/>
+                <character filepath="ieVjFT.png" height="97" name="4" width="58"/>
+                <character filepath="fXq9Tz.png" height="98" name="5" width="51"/>
+                <character filepath="P2wzGa.png" height="98" name="6" width="52"/>
+                <character filepath="3AOCrf.png" height="97" name="7" width="50"/>
+                <character filepath="QU9h89.png" height="98" name="8" width="51"/>
+                <character filepath="qRh3f8.png" height="97" name="9" width="53"/>
+                <character filepath="7NnJK3.png" height="98" name=":" width="30"/>
+            </bitmap_font>
+        </digitalclock>
+        <digitalclock alignment="16384" b="255" bitmap_font="true" bitmap_font_name="bitmap_font_1702392961956_XzkIJF" custom_font="false" default_locale="en_US" font_name="Tizen" g="255" height="43" id="Digitalclock sekunden (klein)" locale="es_PE;fr_CA;ar_EG;en_NZ;is_IS;es_PA;fr_CH;da_DK;et_EE;bg_BG;en_SG;fi_FI;en_CA;en_GB;es_HN;de_LU;es_PR;ga_IE;ar_IQ;sl_SI;ar_AE;es_PY;es_DO;it_IT;ru_RU;hi_IN;fr_LU;es_EC;es_US;th_TH;de_DE;en_PH;es_UY;ms_MY;ar_SD;de_CH;zh_HK;zh_TW;ar_SA;sk_SK;es_ES;es_VE;ar_JO;nl_NL;ar_BH;es_MX;sq_AL;nl_BE;zh_SG;es_AR;sv_SE;ar_OM;sr_RS;mk_MK;vi_VN;es_NI;en_US;en_IE;ar_KW;ko_KR;lv_LV;uk_UA;en_IN;es_BO;zh_CN;en_ZA;pt_PT;ar_SY;de_AT;pl_PL;el_GR;ro_RO;it_CH;be_BY;fr_BE;mt_MT;tr_TR;pt_BR;en_AU;el_CY;fr_FR;cs_CZ;hu_HU;ja_JP;ar_LB;ar_QA;ar_YE;es_SV;es_CO;es_GT;es_CR;es_CL" r="255" size="40" style="0" text="ss" width="34" x="298" y="223">
+            <bitmap_font>
+                <character filepath="4D8eeK.png" height="37" name="0" width="20"/>
+                <character filepath="4oNN0t.png" height="37" name="1" width="17"/>
+                <character filepath="YV3saq.png" height="37" name="2" width="22"/>
+                <character filepath="DD98cN.png" height="37" name="3" width="21"/>
+                <character filepath="k0fDtr.png" height="37" name="4" width="24"/>
+                <character filepath="J1NeJX.png" height="37" name="5" width="21"/>
+                <character filepath="Ty1QfT.png" height="37" name="6" width="22"/>
+                <character filepath="rLmfZr.png" height="37" name="7" width="21"/>
+                <character filepath="iwq4pW.png" height="37" name="8" width="21"/>
+                <character filepath="pAzQqW.png" height="37" name="9" width="22"/>
+            </bitmap_font>
+        </digitalclock>
+        <text alignment="131072" b="255" bitmap_font="true" bitmap_font_name="bitmap_font_1702396689786_9LeD6a" custom_font="false" default_locale="en_US" font_name="Tizen" g="255" height="41" id="HerzRate" locale="en_US" r="255" size="40" source="heartrate.recent" style="0" text="Text" width="74" x="118" y="316">
+            <bitmap_font>
+                <character filepath="xIaiOa.png" height="37" name="0" width="20"/>
+                <character filepath="AFuLaj.png" height="37" name="1" width="17"/>
+                <character filepath="IcaJY9.png" height="37" name="2" width="22"/>
+                <character filepath="2JbLOb.png" height="37" name="3" width="21"/>
+                <character filepath="7tneJe.png" height="37" name="4" width="24"/>
+                <character filepath="2bffIE.png" height="37" name="5" width="21"/>
+                <character filepath="ObMgmN.png" height="37" name="6" width="22"/>
+                <character filepath="LVtgq4.png" height="37" name="7" width="21"/>
+                <character filepath="OCjX54.png" height="37" name="8" width="21"/>
+                <character filepath="ExWBqX.png" height="37" name="9" width="22"/>
+            </bitmap_font>
+        </text>
+        <image height="36" id="Image icon_heart_nor_02_blue" name="icon_heart_nor_02_blue.png" width="36" x="196" y="321"/>
+        <digitalclock alignment="131072" b="255" bitmap_font="true" bitmap_font_name="bitmap_font_1702408576731_7woAm2" custom_font="false" default_locale="en_US" font_name="Tizen" g="255" height="26" id="Datum(Tag-TagNR-MonatNR-JahrNR9" locale="en_US" r="255" size="40" style="0" text="EE FF.MM.YYYY" width="167" x="8" y="192">
+            <bitmap_font>
+                <character filepath="4zO3wr.png" height="27" name="0" width="15"/>
+                <character filepath="qRW52Z.png" height="27" name="1" width="11"/>
+                <character filepath="ojRYf1.png" height="27" name="2" width="15"/>
+                <character filepath="jZSEgg.png" height="27" name="3" width="15"/>
+                <character filepath="p1s6AE.png" height="27" name="4" width="16"/>
+                <character filepath="DTLkKt.png" height="27" name="5" width="15"/>
+                <character filepath="TS4Rtq.png" height="27" name="6" width="15"/>
+                <character filepath="MA8brw.png" height="27" name="7" width="14"/>
+                <character filepath="r539h7.png" height="27" name="8" width="15"/>
+                <character filepath="uqLEbJ.png" height="27" name="9" width="15"/>
+                <character filepath="pabj9F.png" height="27" name="-" width="18"/>
+                <character filepath="uSlnLz.png" height="27" name="." width="9"/>
+                <character filepath="Nxu63C.png" height="33" name="Thu" width="37"/>
+                <character filepath="VHXS3b.png" height="33" name="Tue" width="37"/>
+                <character filepath="nQLYmX.png" height="33" name="Sat" width="37"/>
+                <character filepath="zztLi0.png" height="33" name="Mon" width="37"/>
+                <character filepath="CBY2ze.png" height="33" name="Sun" width="37"/>
+                <character filepath="eE0UGj.png" height="33" name="Wed" width="37"/>
+                <character filepath="x264d8.png" height="33" name="Fri" width="37"/>
+            </bitmap_font>
+        </digitalclock>
+        <image height="29" id="Image KW" name="KW.png" width="42" x="278" y="191"/>
+        <digitalclock alignment="16777216" b="255" bitmap_font="true" bitmap_font_name="bitmap_font_1702424784845_qUahgB" custom_font="false" default_locale="en_US" font_name="Tizen" g="255" height="26" id="Digitalclock 1(1)" locale="en_US" r="255" size="22" style="0" text="w" width="46" x="313" y="192">
+            <bitmap_font>
+                <character filepath="D8tZvZ.png" height="27" name="0" width="15"/>
+                <character filepath="UUcg3O.png" height="27" name="1" width="11"/>
+                <character filepath="43phYN.png" height="27" name="2" width="15"/>
+                <character filepath="cv4Wxu.png" height="27" name="3" width="15"/>
+                <character filepath="tkEvd3.png" height="27" name="4" width="16"/>
+                <character filepath="ipK1BO.png" height="27" name="5" width="15"/>
+                <character filepath="LCabZ7.png" height="27" name="6" width="15"/>
+                <character filepath="0cUnoQ.png" height="27" name="7" width="14"/>
+                <character filepath="X62AKW.png" height="27" name="8" width="15"/>
+                <character filepath="8GPiTN.png" height="27" name="9" width="15"/>
+            </bitmap_font>
+        </digitalclock>
+        <text alignment="131072" b="212" bitmap_font="true" bitmap_font_name="bitmap_font_1702425574776_8vQ8Ml" custom_font="false" default_locale="en_US" font_name="Tizen" g="109" height="26" id="Text 1(1)" locale="en_US" r="17" size="16" source="pedometer.step" style="0" text="Text" width="92" x="238" y="158">
+            <bitmap_font>
+                <character filepath="lybCPB.png" height="27" name="0" width="15"/>
+                <character filepath="7HHPSq.png" height="27" name="1" width="11"/>
+                <character filepath="GEGlPW.png" height="27" name="2" width="15"/>
+                <character filepath="fvRV3t.png" height="27" name="3" width="15"/>
+                <character filepath="xBxXLU.png" height="27" name="4" width="16"/>
+                <character filepath="Gz5AIZ.png" height="27" name="5" width="15"/>
+                <character filepath="LuzXo6.png" height="27" name="6" width="15"/>
+                <character filepath="vRua8b.png" height="27" name="7" width="14"/>
+                <character filepath="vSiyGK.png" height="27" name="8" width="15"/>
+                <character filepath="KMMtCt.png" height="27" name="9" width="15"/>
+                <character filepath="Z83k9S.png" height="27" name="." width="9"/>
+            </bitmap_font>
+        </text>
+        <image height="33" id="Image icon_steps_02_blau" name="icon_steps_02_blau.png" width="47" x="322" y="154"/>
+        <text alignment="131072" b="140" bitmap_font="true" bitmap_font_name="bitmap_font_1702426713954_qxeaOL" custom_font="true" default_locale="en_US" font_name="WatchBreezeSans-MediumCondensed" g="140" height="26" id="AkkuInProzen" locale="en_US" postfix=" %" r="140" size="16" source="battery.percent" style="0" text="Text" width="38" x="280" y="125">
+            <bitmap_font>
+                <character filepath="34bAi9.png" height="27" name="0" width="15"/>
+                <character filepath="WGlh7s.png" height="27" name="1" width="11"/>
+                <character filepath="sepNow.png" height="27" name="2" width="15"/>
+                <character filepath="6b8qQ4.png" height="27" name="3" width="15"/>
+                <character filepath="9zFdrE.png" height="27" name="4" width="16"/>
+                <character filepath="P153RL.png" height="27" name="5" width="15"/>
+                <character filepath="jdajCd.png" height="27" name="6" width="15"/>
+                <character filepath="n8KBkJ.png" height="27" name="7" width="14"/>
+                <character filepath="fzFVGY.png" height="27" name="8" width="15"/>
+                <character filepath="Wh4Tsv.png" height="27" name="9" width="15"/>
+            </bitmap_font>
+        </text>
+        <text alignment="16777216" b="255" bitmap_font="true" bitmap_font_name="bitmap_font_1702428018587_oBnniL" custom_font="false" default_locale="en_US" font_name="Tizen" g="255" height="26" id="Text 2" locale="en_US" r="255" size="24" source="none" style="0" text="%" width="28" x="313" y="125">
+            <bitmap_font>
+                <character filepath="6HHgD4.png" height="27" name="%" width="23"/>
+            </bitmap_font>
+        </text>
+        <image height="30" id="Baterie Logo leer" name="battery_low.png" width="24" x="332" y="123">
+            <condition source="battery">
+                <section end="13" start="0"/>
+            </condition>
+        </image>
+        <image height="30" id="Baterie Logo voll" name="battery_nor.png" width="24" x="332" y="123">
+            <condition source="battery">
+                <section end="100" start="14"/>
+            </condition>
+        </image>
+    </root>
+</watchface>
